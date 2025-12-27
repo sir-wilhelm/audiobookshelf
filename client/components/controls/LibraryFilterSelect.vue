@@ -387,6 +387,10 @@ export default {
           name: this.$strings.LabelInProgress
         },
         {
+          id: 'started',
+          name: this.$strings.LabelStarted
+        },
+        {
           id: 'not-started',
           name: this.$strings.LabelNotStarted
         },
